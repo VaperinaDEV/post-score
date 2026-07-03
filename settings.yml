@@ -6,3 +6,8 @@ how_it_works_topic:
   default: ""
   type: string
   description: "The URL of the 'How it works' topic (e.g., https://meta.discourse.org/t/...)."
+svg_icons:
+  default: "chart-simple"
+  type: list
+  list_type: "compact"
+  description: "List of FontAwesome 6 icons used in this theme component"
