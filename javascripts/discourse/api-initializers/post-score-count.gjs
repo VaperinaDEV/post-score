@@ -40,7 +40,7 @@ function postScoreCount(api) {
                   <div class="post-score-count-tooltip__description">
                     {{i18n (themePrefix "posts.post_score_description_tooltip")}}
                   </div>
-                  {{if settings.how_it_works_topic_available}}
+                  {{#if settings.how_it_works_topic_available}}
                     <div class="post-score-count-tooltip__actions">
                       <DButton
                         class="btn-transparent btn-primary"
