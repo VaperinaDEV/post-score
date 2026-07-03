@@ -1,0 +1,19 @@
+.post-score-count-tooltip {
+  margin-left: 0.5rem;
+  color: var(--primary-med-or-secondary-med);
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.5rem;
+  }
+  &__statistic {
+    font-weight: 600;
+  }
+  &__actions {
+    margin-top: 0.5rem;
+    .btn {
+      padding: 0;
+    }
+  }
+}

@@ -1,0 +1,4 @@
+en:
+  posts:
+    post_score_tooltip: "Post Score"
+    post_score_description_tooltip: "The post score shows how active the community was on this post – based on reactions, replies, references, bookmarks, and reads."

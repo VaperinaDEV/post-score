@@ -1,0 +1,8 @@
+how_it_works_topic_available:
+  default: false
+  type: boolean
+  description: "Enable this if you have a 'How it works' topic for the Post Score component."
+how_it_works_topic:
+  default: ""
+  type: string
+  description: "The URL of the 'How it works' topic (e.g., https://meta.discourse.org/t/...)."
