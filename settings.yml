@@ -1,6 +1,6 @@
 how_it_works_topic_available:
   default: false
-  type: boolean
+  type: bool
   description: "Enable this if you have a 'How it works' topic for the Post Score component."
 how_it_works_topic:
   default: ""
